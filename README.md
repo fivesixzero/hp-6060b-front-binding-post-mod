@@ -1,6 +1,8 @@
 # hp-6060b-front-binding-post-mod
 
-Front panel binding posts modification for HP 6060B/6063B DC electronic load
+Front panel binding post modification for HP 6060B/6063B DC electronic load
+
+<img src="https://raw.githubusercontent.com/fivesixzero/hp-6060b-front-binding-post-mod/main/images/binding-posts-installed.jpeg" width="640">
 
 ## Obligatory Disclaimer
 
