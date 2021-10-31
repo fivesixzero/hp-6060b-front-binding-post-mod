@@ -35,10 +35,11 @@ Several other parts will be required in addition to the printed or machined moun
   * I used [this part from McMaster Carr](https://www.mcmaster.com/90710A130/).
   * As of mid-2021 I still have a bunch of spares, so send me an email if you're having a hard time finding them
 * 2x **Washer, Curved, 13mm ID, 0.2mm Thick, Spring Steel**, [HP P/N `3050-1320`](https://www.keysight.com/my/partDetail/3050-1320)
-  * I ended up using two washers from [this kit purchased from Amazon US](https://www.amazon.com/dp/B07QNLN43L). These washers were definitely not of the same grade as the factory washers on the rear panel but they appear to be doing their job just fine with a bit of extra tightening.
+  * I ended up using two washers from [this kit purchased from Amazon US](https://www.amazon.com/dp/B07QNLN43L). These washers were definitely not of the same grade as the factory washers on the rear panel ~~but they appear to be doing their job just fine with a bit of extra tightening~~. _edit: These didn't work out very well and I'd recommend more robust washers for this use._
+  * The Amazon-purchased washers weren't up to par and "went flat" very quickly so I ordered [this part from McMaster Carr](https://www.mcmaster.com/catalog/127/3492) which appears to be almost identical to the thick, proper spring steel factory originals. After several weeks they're still doing their job, providing the consistent, springy pressure required to hold the posts and mounting plate in place.
 * 2x **Machine Screw, M5x0.8, 12mm Length, Pan Head**, [HP P/N `0515-0155`](https://www.keysight.com/my/partDetail/0515-0155)
 * 2x **Washer, Locking, External Tooth Type A, 5.3mm ID, 10m OD, 0.6mm Thick, Spring Steel**, [HP P/N `2190-0629`](https://www.keysight.com/my/partDetail/2190-0629)
-  * For the above two parts I used [this part from McMaster Carr](https://www.mcmaster.com/90317A602/). This part has a pre-installed external-tooth washer that is very close to HP's specified washer part. Like the hex nuts, I have a bunch of spares so feel free to send an email if you have trouble finding them.
+  * For the above two parts I used [this part from McMaster Carr](https://www.mcmaster.com/90317A602/). This part has a pre-installed external-tooth washer that is very close to HP's specified washer part. Like the other parts, I have a bunch of spares so feel free to send an email if you have trouble finding them.
 
 #### Cabling
 
